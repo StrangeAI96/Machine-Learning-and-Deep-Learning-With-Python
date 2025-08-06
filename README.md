@@ -4,7 +4,7 @@ This repository includes basic Python exercises for practicing data visualizatio
 
 ## Contents
 
-- `task1.ipynb`: 
+- `Task1.ipynb`: 
   - Plotting sine function and adding Gaussian noise.
   - Checking if an array is monotonic (increasing or decreasing).
 
