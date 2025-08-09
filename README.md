@@ -1,4 +1,4 @@
-# Python Practice Exercises
+# Python Practice Exercises for Machine Learning & Deep Learning
 
 This repository includes basic Python exercises for practicing data visualization, signal noise simulation, and array monotonicity checking.
 
