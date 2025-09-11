@@ -52,6 +52,3 @@ Each dataset contains two columns:
 - Gain hands-on experience in evaluating models using error metrics and plots.  
 
 ---
-
-## 📜 License  
-Distributed under the MIT License.  
