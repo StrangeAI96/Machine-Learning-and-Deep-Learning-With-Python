@@ -1,7 +1,7 @@
 # Task 1 — Data Visualization and Monotonic Array Check  
 
 **Notebook:** `Task1.ipynb`  
-**Folder:** `Tasks`  
+**Folder:** `Exercise 1`  
 
 ---
 
