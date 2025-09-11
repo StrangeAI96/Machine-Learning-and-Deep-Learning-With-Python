@@ -8,8 +8,10 @@ A collection of **notebooks, assignments, and projects** showcasing core concept
 ---
 The course is taught by Dr. Amir Zamani Doost.
 ## 📂 Structure  
-- `Tasks/` — assignments with solutions  
-- `Projects/` — applied ML/DL implementations with step-by-step explanations of algorithms
+- `Course Files/` — official notebooks provided by the instructor  
+- `Exercise/` — assignments with solutions  
+- `Projects/` — applied ML/DL implementations with step-by-step explanations of algorithms  
+
 
 ---
 
