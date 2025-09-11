@@ -1,14 +1,31 @@
-# Python Practice Exercises for Machine Learning & Deep Learning
+# Machine Learning and Deep Learning with Python Course  
 
-This Repository will contain all of my projects and code related to machine learning and deep learning with python 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)  
+![Last Commit](https://img.shields.io/github/last-commit/StrangeAI96/Machine-Learning-and-Deep-Learning-With-Python)  
 
-## Contents
+A collection of **notebooks, assignments, and projects** showcasing core concepts in machine learning and deep learning. Built with Python and designed to be clear, reproducible, and practical.  
+---
+The course is taught by Dr. Amir Zamani Doost.
+## 📂 Structure  
+- `Tasks/` — assignments with solutions  
+- `Projects/` — applied ML/DL implementations with step-by-step explanations of algorithms
 
-- `Task1.ipynb`: 
-  - Plotting sine function and adding Gaussian noise.
-  - Checking if an array is monotonic (increasing or decreasing).
+---
 
-## Tools
-- Python
-- NumPy
-- Matplotlib
+## 🛠️ Tech Stack  
+- Python  
+- NumPy, Pandas, Scikit-learn  
+- Matplotlib 
+- Jupyter Notebooks  
+
+---
+
+## 🚀 Getting Started  
+
+Clone the repository and install dependencies:  
+
+```bash
+git clone https://github.com/StrangeAI96/Machine-Learning-and-Deep-Learning-With-Python.git
+cd Machine-Learning-and-Deep-Learning-With-Python
+pip install -r requirements.txt
