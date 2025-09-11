@@ -4,7 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)  
 ![Last Commit](https://img.shields.io/github/last-commit/StrangeAI96/Machine-Learning-and-Deep-Learning-With-Python)  
 
-A collection of **notebooks, assignments, and projects** showcasing core concepts in machine learning and deep learning. Built with Python and designed to be clear, reproducible, and practical.  
+A collection of **notebooks, assignments, and projects** showcasing core concepts in machine learning and deep learning. Built with Python.  
 ---
 The course is taught by Dr. Amir Zamani Doost.
 ## 📂 Structure  
