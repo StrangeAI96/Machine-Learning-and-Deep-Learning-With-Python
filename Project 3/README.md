@@ -1,6 +1,4 @@
 # 🩺 Project 3 — Medical Text Classification  
-**Author:** [Arash Ganjouri](https://github.com/arash-ganjouri)  
-**Course:** *Comprehensive Machine Learning & Deep Learning with Python*  
 **Notebook:** `Arash_Ganjouri_Project3.ipynb`  
 **Folder:** `Project 3`  
 
